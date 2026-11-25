@@ -4,7 +4,7 @@ Thank you for your interest in this project! We welcome contributions from the c
 
 To setup the development environment, please refer to the [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) file.
 
-## How to Contribute
+## How to Contributes
 1.  **Fork the repository** on GitHub.
 2.  **Create a new branch** for your feature or bug fix.
 3.  **Submit a Pull Request (PR)** with a clear description of your changes.
